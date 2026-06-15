@@ -1,0 +1,2 @@
+# PrivacyPolicy
+Generic Privacy Policy
